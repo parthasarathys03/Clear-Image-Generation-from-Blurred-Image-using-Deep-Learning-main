@@ -1,0 +1,10 @@
+tqdm
+matplotlib
+numpy
+pandas
+opencv-python
+flask
+pillow
+joblib
+scipy
+scikit-learn
